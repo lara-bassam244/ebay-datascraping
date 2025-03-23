@@ -1,1 +1,1 @@
-# ebay-datascraping
+# ebay-datascraping, this project extracts data from ebay tech page and cleans the prices, calculates the discounted percentage of prices and sorts any empty or missing data, displays the cleaned data in graphs to make the data more readable.
